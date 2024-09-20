@@ -1,0 +1,6 @@
+# dependencies
+/book-manage-ui/node_modules
+/book-manage-ui/.env
+
+/book-manage-backend/node_modules
+/book-manage-backend/.env
