@@ -1,23 +1,23 @@
-## For first usage of backend and frontend
+# For first usage of backend and frontend
 - Run command: npm i
 
-## Backend Commands
+# Backend Commands
 
-# Setup ENV vars
+### Setup ENV vars
 - Add your database host, user and password in respective fields, starts with DB.
 
-# To initialize database for the first time
+### To initialize database for the first time
 - Run command: npm run init_db
 
-# For subsequent runs 
+### For subsequent runs 
 - Run command: npm start
 
 
-## Frontend Command
-For frontend run command: npm run dev
+# Frontend Command
+- For frontend run command: npm run dev
 
 
-## Running Both
+# Running Both
 - One needs to run backend first and then frontend
 - Backend uses Model-Service-Controller architecture
 - Frontend defines views in React.
